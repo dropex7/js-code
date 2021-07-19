@@ -25,5 +25,4 @@ let funk2 = (a, ...args) => {
   return resStr;
 };
 
-// funk2("*", "asd", "123", "1w3", "1a");
 console.log(funk2("*", "asd", "123", "1w3", "1a"));
