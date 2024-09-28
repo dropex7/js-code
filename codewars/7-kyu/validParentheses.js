@@ -1,3 +1,7 @@
+/* LINK
+*  https://www.codewars.com/kata/52774a314c2333f0a7000688
+**/
+
 function validParentheses(parens) {
     var n = 0;
     for (var i = 1; i < parens.length; i++) {

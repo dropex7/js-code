@@ -1,3 +1,7 @@
+/* LINK
+*  https://www.codewars.com/kata/520446778469526ec0000001
+**/
+
 Array.prototype.sameStructureAs = function (other) {
   if (!Array.isArray(other)) return false;
   if (this.length !== other.length) return false;

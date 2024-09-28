@@ -1,4 +1,9 @@
-// CREATED BY MIRZOEV 28.12.2022
+// @ts-nocheck
+
+/* LINK
+*  https://www.codewars.com/kata/5f25f475420f1b002412bb1f
+**/
+
 function findTheNumberPlate(customerID: number) : string {
     let seriaCount: number = Math.trunc((customerID)/ 999);
     let seriaNumber: number = 1 + ((customerID) % 999);

@@ -1,3 +1,7 @@
+/* LINK
+*  https://www.codewars.com/kata/520b9d2ad5c005041100000f
+**/
+
 function pigIt(str) {
   let res = [];
   for (word of str.split(" ")) {

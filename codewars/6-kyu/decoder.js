@@ -1,3 +1,7 @@
+/* LINK
+*  https://www.codewars.com/kata/5e4d8a53b499e20016b018a0
+**/
+
 function decoder(sequence) {
   let binaryNumbers = [];
   let i = 0;

@@ -1,3 +1,7 @@
+/* LINK
+*  https://www.codewars.com/kata/5592e3bd57b64d00f3000047
+**/
+
 function findNb(m) {
     var n = 1;
     while (m > 0) {

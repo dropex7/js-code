@@ -1,3 +1,7 @@
+/* LINK
+*  https://www.codewars.com/kata/554b4ac871d6813a03000035
+**/
+
 function highAndLow(numbers) {
   let min = +numbers.split(" ")[0];
   let max = +numbers.split(" ")[0];
